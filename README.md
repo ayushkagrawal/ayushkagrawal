@@ -20,11 +20,12 @@ Programmer (noun): A coffee to code convertor.
 <img src="https://cdn.iconscout.com/icon/free/png-512/javascript-20-555998.png" alt="javascript" width="30" height="30"/></p><p align="center">
   
 
+
 <a href="https://github.com/ayushkagrawal/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkagrawal&theme=radical&hide=glsl,python" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkagrawal&theme=darcula&hide=glsl,python" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushkagrawal&show_icons=true&theme=radical&line_height=27" alt="ayushkagrawal's github stats" />
+<a href="https://github.com/ayushkagrawal/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushkagrawal&show_icons=true&theme=darcula&line_height=27" alt="ayushkagrawal's github stats" />
 </a>
 
 
