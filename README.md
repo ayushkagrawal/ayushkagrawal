@@ -1,5 +1,5 @@
 <h1 align="center">Hola Amigo👋, I'm Ayush Kumar Agrawal</h1>
-<h3 align="center">Front-end developer who aims to write quality code</h3>
+<h3 align="center">Software Engineer who aims to write quality code</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushkagrawal" alt="ayushkagrawal" /> </p>
 
 ```
