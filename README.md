@@ -42,7 +42,6 @@ while(lifeExists() == true)
 ```
 
 <p align="center">
-<a href="mailto:ayush26.agrawal@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="ayushkagrawal" height="20" width="20" /></a>&nbsp;
 <a href="https://twitter.com/Ayushkagrawal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="paicube" height="20" width="20" /></a>&nbsp;
 <a href="https://linkedin.com/in/ayushkagrawal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ayushkagrawal" height="20" width="20" /></a>&nbsp;
 <a href="https://facebook.com/ayushstriver" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ayushkagrawal" height="20" width="20" /></a>&nbsp;
